@@ -66,8 +66,6 @@ public final class ClassMarks {
     Random random = new Random();
     // Loop through row numbers
     for (int rowNum = 1; rowNum <= studentsArr.length; rowNum++) {
-      // Set the student name in the first column
-      table[rowNum][0] = studentsArr[rowNum - 1];
       // Create variable for row
       String[] row = new String[assignmentsArr.length + 1];
       // First column is the student name
