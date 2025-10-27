@@ -13,19 +13,19 @@ import java.util.Random;
 */
 public final class ClassMarks {
   /**
-   * Variable for Max Mark.
+   * Constant for Max Mark.
    */
   public static final int MAX_MARK = 100;
   /**
-   * Variable for Min Mark.
+   * Constant for Min Mark.
    */
   public static final int MIN_MARK = 0;
   /**
-   * Variable for Median Mark.
+   * Constant for Median Mark.
    */
   public static final int MEDIAN_MARK = 75;
   /**
-   * Variable for Standard Deviation in the marks.
+   * Constant for Standard Deviation in the marks.
    */
   public static final int STD_DEV_MARK = 10;
   /**
